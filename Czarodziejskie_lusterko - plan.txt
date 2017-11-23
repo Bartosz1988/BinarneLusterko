@@ -1,0 +1,6 @@
+Czarodziejskie liusterko:
+
+1. Wczytaj liczbê dziesiêtn¹ i zapisz do zmiennej typu long long int.
+2. Zmieñ wczytan¹ liczbê na typ binarny i zapisz do kontenera vector typu int
+3. Zamieñ wczytan¹ liczbê binarn¹ na dziesiêtn¹ przechodz¹c bit po bicie w drug¹ stronê
+4. Wypisz na ekran zamienion¹ liczbê dziesiêtn¹
